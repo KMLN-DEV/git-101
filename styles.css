@@ -1,0 +1,18 @@
+.center-elements{
+    width: 500px;
+    margin: 0px auto;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+}
+
+#brenda-sykes{
+    height: 80px;
+    width: 80px;
+    margin-right: 25px;
+}
